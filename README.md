@@ -1,9 +1,9 @@
-### Hi there 👋
-<p align = "left">
+<h3 align="center">Hi there 👋</h3>
+<p align = "center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimssumin&count_bg=%23F5CBF8&title_bg=%235A4C5F&icon=smugmug.svg&icon_color=%23FFF9F9&title=visit&edge_flat=false"/>     </a>
 </p>
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center"> Techs that I've used at least once </p>
 
