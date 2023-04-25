@@ -35,6 +35,6 @@
 </p>
 <p align = "center">
   <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730">
-  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730)](https://solved.ac/ksumin0730) -->
+  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730)]([https://solved.ac/ksumin0730](https://ssummin.tistory.com/)) -->
 </p>
 
