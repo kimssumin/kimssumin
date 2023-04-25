@@ -31,7 +31,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/About.me > -302E31?style=for-the-badge&logo=About.me&logoColor=white"/></h3> <a href="https://velog.io/@ssumdev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://ssummin.tistory.com"/></a>
+<img src="https://img.shields.io/badge/About.me > -302E31?style=for-the-badge&logo=About.me&logoColor=white"/></h3> <a href="https://ssummin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://ssummin.tistory.com"/></a>
 
 </p>
 <p align = "center">
