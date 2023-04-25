@@ -31,10 +31,11 @@
 <br>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/About.me > -302E31?style=for-the-badge&logo=About.me&logoColor=white"/></h3> <a href="https://velog.io/@ssumdev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ssumdev"/></a>
+<img src="https://img.shields.io/badge/About.me > -302E31?style=for-the-badge&logo=About.me&logoColor=white"/></h3> <a href="https://velog.io/@ssumdev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://ssummin.tistory.com"/></a>
+
 </p>
 <p align = "center">
   <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730">
-  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730)]([https://solved.ac/ksumin0730](https://ssummin.tistory.com/)) -->
+  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksumin0730)](https://solved.ac/ksumin0730) -->
 </p>
 
